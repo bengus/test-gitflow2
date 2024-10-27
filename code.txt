@@ -6,3 +6,5 @@ feature 1
 feature 2
 1
 2
+
+fix for 0.0.1
