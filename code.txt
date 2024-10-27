@@ -12,3 +12,7 @@ fix for 0.0.1
 feature 3
 1
 2
+
+feature 4
+1
+2
